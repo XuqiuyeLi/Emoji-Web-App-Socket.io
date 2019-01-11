@@ -1,0 +1,23 @@
+{
+  "name": "emoji-web-app-socket.io",
+  "version": "1.0.0",
+  "description": "Make a real time web app that displays two emojis which can be moved by clicking the corresponding buttons, and everyone connected to the game can see the emoji move in real time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XuqiuyeLi/Emoji-Web-App-Socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XuqiuyeLi/Emoji-Web-App-Socket.io/issues"
+  },
+  "homepage": "https://github.com/XuqiuyeLi/Emoji-Web-App-Socket.io#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
